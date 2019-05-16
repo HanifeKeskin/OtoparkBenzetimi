@@ -1,0 +1,46 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Form1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.pdb
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe.config
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.exe
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.pdb
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Form1.resources
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe
+C:\Users\Toshiba\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.pdb
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe.config
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.exe
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.pdb
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.pdb
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csprojResolveAssemblyReference.cache
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Form1.resources
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Properties.Resources.resources
+C:\Users\Beyda\Desktop\OtoparkBenzetimi\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csproj.GenerateResource.Cache
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe.config
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.exe
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.pdb
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.pdb
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csprojResolveAssemblyReference.cache
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Form1.resources
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Properties.Resources.resources
+E:\OtoparkBenzetimi-2\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe.config
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.exe
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\bin\Debug\OtoparkBenzetimi.pdb
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Form1.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.exe
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje-1\OtoparkBenzetimi1\OtoparkBenzetimi\obj\Debug\OtoparkBenzetimi.pdb
